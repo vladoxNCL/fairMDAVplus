@@ -274,3 +274,6 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+# Jupyter aux files
+*.ipynb_checkpoints*
